@@ -13,3 +13,9 @@ def divide_new(a,b):
 
 def get_Remainder(a,b):
 	return a//b
+
+def test(num):
+	if num>0:
+		return num
+	else:
+		return -num
