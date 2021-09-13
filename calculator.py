@@ -5,9 +5,10 @@ def add(a,b):
 # 빼기
 def subract(a,b):
 	return a-b
-<<<<<<< HEAD
+# 곱하기
 def multiply(a,b):
 	return a*b
+# 나누기_무료
 def divide_free(a,b):
 	return a/b
 =======
